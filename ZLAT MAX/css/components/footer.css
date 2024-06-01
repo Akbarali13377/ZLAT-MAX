@@ -1,0 +1,200 @@
+.first-footer-div {
+    img {
+        width: 100%;
+        display: inline-block;
+        height: 200px;
+        background-color: var(--color-anyone);
+    }
+    h1 {
+      color: var(--color-orange);  
+      font-size: 16px;
+      font-weight: 700;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      position: absolute;
+      margin-top: -170px;
+      margin-left: 240px;
+    }
+    p {
+        font-size: 10px;
+        font-weight: 400;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: var(--color-bg-);
+        width: 810px;
+         margin-top: -120px;
+         margin-left: 130px;
+    }
+}
+footer {
+    background-color: var(--color-anyone);
+    margin-top: 60px;
+    height: 700px;
+}
+.second-footer-div {
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    p {
+        color: var(--color-bg-);  
+        font-size: 10px;
+        font-weight: 570;
+        font-family: Verdana, Geneva, Tahoma, sans-serif; 
+        margin-top: 120px;
+    }
+}
+.one-box {
+ p {
+    font-size: 10px;
+    color:var(--color-DODO);
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 120px;
+    margin-left: 135px ;
+}
+}
+.two-box {
+    margin-top: -158px;
+    p {
+       font-size: 10px;
+       color:var(--color-DODO);
+       font-weight: 400;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       width: 190px;
+       margin-left: 345px ;
+   }
+   }
+.three-box {
+    margin-top: -65px;
+    p {
+       font-size: 10px;
+       color:var(--color-DODO);
+       font-weight: 400;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       width: 190px;
+       margin-left: 585px ;
+   }
+   }   
+   .four-box {
+    margin-top: -65px;
+    p {
+       font-size: 10px;
+       color:var(--color-DODO);
+       font-weight: 400;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       width: 190px;
+       margin-left: 810px ;
+   }
+   }      
+.footer-line-div {
+    width: 840px;
+    height: 1px;
+    background-color: #8a8a8a;
+    border-radius: 0.5px;
+    margin-top: 115px;
+    margin-left: 135px;
+}   
+.four-footer-div {
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    p {
+        color: var(--color-bg-);  
+        font-size: 10px;
+        font-weight: 570;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin-top: -170px; 
+    }
+} 
+.div-one {
+    margin-top: -145px;
+    p {
+       font-size: 10px;
+       color:var(--color-DODO);
+       font-weight: 400;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       width: 120px;
+       margin-left: 138px ;
+   }
+   } 
+   .div-two {
+    margin-top: -126px;
+    p {
+       font-size: 10px;
+       color:var(--color-DODO);
+       font-weight: 400;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       width: 190px;
+       margin-left: 322px ;
+   }
+   } 
+   .div-three {
+    margin-top: -26px;
+    p {
+       font-size: 10px;
+       color:var(--color-DODO);
+       font-weight: 400;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       width: 172px;
+       margin-left: 522px ;
+   }
+   .odelno-p1 {
+    color: var(--color-orange);
+  margin-top: -22px;
+  margin-left: 572px;
+   }
+   }   
+ .div-four {
+    margin-top: -59px;
+    p {
+       font-size: 10px;
+       color:var(--color-DODO);
+       font-weight: 400;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       width: 172px;
+       margin-left: 782px ;
+   }
+     .example_login {
+        width: 150px;
+        margin-left: 782px;
+        background-color: transparent;
+        border: 1px solid var(--color-bg-);
+        border-radius: 2px;
+     }
+     button {
+        width: 25px;
+        font-weight: 800;
+        padding: 0;
+        height: 20px;
+        margin-left: -12px;
+        margin-top: -0.2px;
+        position: absolute;
+        outline: none;
+        border: none;
+     }
+
+   }
+.chekbox {
+    margin-top: 10px;
+    margin-left: 780px;
+    position: absolute;
+   width: 13px;
+   accent-color: red;
+  }          
+.div-five p {
+    font-size: 10px;
+    color:var(--color-DODO);
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 798px ;
+    width: 180px;
+}   
+.footer-line-div2 {
+    width: 840px;
+    height: 1px;
+    background-color: #8a8a8a;
+    border-radius: 0.5px;
+    margin-top: 65px;
+    margin-left: 135px;
+}  
+.footer-connecr {
+margin-top: 280px;
+}

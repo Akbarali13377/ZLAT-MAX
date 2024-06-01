@@ -1,0 +1,43 @@
+:root {
+    --color-bg- : #FFFFFF ;
+    --font-sixe-p: 19px ;
+    --color-anyone: #141414;
+    --padding-body: 0px;
+    --margin-body: 0px;
+    --color-ABAB: #ABABAB;
+    --color-orange :#E8AA31;
+     --color-DODO : #D0D0D0;
+     --color-gren: green;
+    --color-1414_50 :#545353;
+    --color-8a8a : #8a8a8a;
+
+
+
+
+
+
+     
+        @media only screen and (max-width:900px) {
+           .conteiner {
+              display: grid;
+             gap: 15px;
+             justify-content: center;
+             grid-template-columns: auto auto;
+             flex-wrap: wrap;
+          }
+        }
+
+     
+     
+     
+        @media only screen and (max-width:700px) {
+           .conteiner {
+              display: grid;
+             gap: 15px;
+             justify-content: center;
+             grid-template-columns: auto ;
+             flex-wrap: wrap;
+          }
+        }
+        
+     }

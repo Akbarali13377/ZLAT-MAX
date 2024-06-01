@@ -1,0 +1,196 @@
+@import url(./components/importes.css);
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.box {
+    width: 140px;
+    height: 234px; 
+    margin-left: 5px;
+    box-shadow: 0px 4px 20px 0px #0000001A;
+    transition: 1s all ease-in-out;
+
+   & .noj-img {
+    width: 110px; 
+    background-size: cover;
+    margin-top: 8px;   
+    margin-left: 10px;
+   }
+   & .-noj_lisa {
+    font-size: 8px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 7px;
+    margin-top: 17px;
+   }
+   & .noj-95x {
+    color: var( --color-ABAB);
+    font-size: 7px;
+    font-weight: 600;
+    margin-top: 10px;
+    position: relative;
+    margin-left: 7px;
+   }
+   & .noj_orex {
+    color: var( --color-ABAB);
+    font-size: 7px;
+    font-weight: 600;
+    margin-top: -14px;
+    position: relative;
+    margin-left: 72px;
+   }
+   & .noj-otziv {
+    color: var( --color-ABAB);
+    font-size: 7px;
+    font-weight: 400;
+    margin-top: 10px;
+    position: relative;
+    margin-left: 92px;
+   }
+   & button {
+    width: 118px;
+    height: 21px;
+    margin-left: 10px;
+    margin-top:  -25px;
+    border: none;
+    background: #E8AA31;
+    box-shadow: 0px 4px 20px 0px #E8AA316E;    
+    border-radius: 3px;
+    font-size: 8px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: var(--color-bg-);
+   }
+   & .noj_rubl {
+    font-size: 8px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+    margin-top: -15PX;
+    display: flex;
+   }
+   & .lines img {
+    width: 9px;
+          }
+   & .lines {
+     margin-top: -20px;
+     position: relative;
+     margin-left: 7px;
+   }
+   & .noj-chiziq {
+    width: 120px;
+    margin-left: 7px;
+    position: relative;
+    margin-top: 5PX;
+    display: flex;
+   }
+   & .noj-like {
+      width: 10px;
+      position: relative;
+      margin-top: -160px;
+      display: inline-block;
+     
+   }
+   .noj-tarozi {
+    width: 10px;
+    position: relative;
+    margin-top: -290px;
+    margin-left: 103px;
+    display: inline-block;
+   }
+  & .noj-korzina  {
+    width: 9px;
+    display: flex;
+    margin-left: 85px;
+    margin-top: -16px;
+  }
+    & .noj-korxina-p {
+        display: flex;
+       margin-left: 32px;
+       margin-top:3px;
+    }
+}
+.any-box {
+    width: 320px;
+    height: 150px;
+    background-color: var(--color-bg-);
+    box-shadow: 0px 4px 20px 0px #00000026;
+    margin-top: 60px;
+    display: inline-block;
+    
+}
+.any-box-conteiner {
+    display: flex;
+    gap: 26px;
+    justify-content: center; 
+}
+.sect-10_box {
+    width: 155px;
+    height: 125px;
+    background-color: var(--color-bg-);
+    box-shadow: 0px 4px 20px 0px #0000001A;
+          border-radius: 2px;
+        margin-top: 30px;
+        & img {
+            width: 100%;
+            height: 70px;
+            border-radius: 2px;
+        }
+.sect-box-p1 {
+        
+    font-size: 8px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: var(  --color-anyone);
+    width: 140px ;
+    margin-top: -0px;
+    margin-left: 6px;
+}
+.sect-box-p2 {
+    font-size: 6px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: var(  --color-ABAB);
+    width: 140px ;
+    margin-left: 6px;
+    align-items: center;
+}
+.sect-box-p3 {
+    margin-top: 11px;
+    display: inline-block;
+}
+}
+::placeholder {
+    color:var(--color-DODO);
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;
+    margin-top: -2px;
+}
+.box:hover {
+    transform: scale(0.95);
+}
+p {
+  transition: 1s all ease-in-out;  
+}     
+p:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+img {
+    transition: 1s all ease-in-out;  
+  }     
+  img:hover {
+      transform: scale(1.09);
+      cursor: pointer;
+  }
+  .mins {
+    transition: 1s all ease-in-out;  
+  }     
+  .mins:hover {
+      transform: scale(1.09);
+      cursor: pointer;
+  }
+       
+  

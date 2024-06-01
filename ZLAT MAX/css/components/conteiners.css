@@ -1,0 +1,27 @@
+.conteiner {
+    display: flex;
+   gap: 15px;
+   justify-content: center;
+}
+.imgs_content {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.conteiner-2 {
+    display: grid;
+   gap: 15px;
+  grid-template-columns: auto auto auto auto ;
+    width: 300px; 
+    margin-top: -1500px;
+    margin-left: 310px;
+}
+.mini_imgs {
+    display: flex;
+    width: 400px;
+    gap: 5px;
+    margin-left: 69px;
+    img {
+    width: 96.2px;
+    }
+}
